@@ -1,4 +1,4 @@
--  Programming language :Python, c/c++, JavaScript , PHP, Java 
+-  Programming language :Python, C/C++, JavaScript , PHP, Java 
 -  Currently learning Spring boot and Angular
 
 <!--
