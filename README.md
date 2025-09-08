@@ -1,5 +1,5 @@
-.  Programming language :Python, c/c++, JavaScript , PHP, Java 
-.  Currently learning Spring boot and Angular
+-  Programming language :Python, c/c++, JavaScript , PHP, Java 
+-  Currently learning Spring boot and Angular
 
 <!--
 **hadil842/hadil842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
