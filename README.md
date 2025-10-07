@@ -1,4 +1,4 @@
--  Programming language :Python, C/C++, JavaScript , PHP, Java 
+-  Programming language :Java ,Python, C/C++, JavaScript , PHP
 -  Currently learning Spring boot and Angular
 -  Interested in Web application security (Web AppSec)
 
