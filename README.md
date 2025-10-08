@@ -1,6 +1,6 @@
 -  Programming language :Java ,Python, C/C++, JavaScript , PHP
 -  Currently learning Spring boot and Angular
--  Interested in Software security appliance 
+-  Interested in Software security
 
 <!--
 **hadil842/hadil842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
